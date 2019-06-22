@@ -2,6 +2,10 @@ package pigpackage;
 
 public class pigclass {
     public static void main(String[] args) {
-        System.out.println("pig");
+        int a = 1;
+        if(a==1){
+            System.out.println("You are a pig!");
+    }
+
     }
 }
